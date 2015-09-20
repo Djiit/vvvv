@@ -1,4 +1,4 @@
-from vvvv.client import VVVVClient
+from vvvv import VVVVClient
 
 def test_client_without_args():
     vvvv = VVVVClient()
