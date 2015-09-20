@@ -17,7 +17,9 @@ pip install vvvv
 Use the VVVVClient in your project and start sending OSC messages to vvvv :
 
 ```python
-from vvvv.client import Client
+>>> from vvvv import VVVVClient
+>>> vc = VVVVClient('127.0.0.1', '4444')
+>>> vc.send_msg('/filter', [0,255,255])
 ```
 
 See more :
