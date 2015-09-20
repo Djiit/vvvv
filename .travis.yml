@@ -19,4 +19,5 @@ deploy:
   password: $PYPI_PASS
   on:
     tags: true
+    branch: master
     python: "3.5"
