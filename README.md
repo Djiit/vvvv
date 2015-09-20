@@ -1,6 +1,7 @@
 # vvvv
 
 [![Build Status](https://travis-ci.org/Djiit/vvvv.svg)](https://travis-ci.org/Djiit/vvvv)
+[![PyPI](https://img.shields.io/pypi/v/vvvv.svg)](https://pypi.python.org/pypi/vvvv)
 
 ## About
 
