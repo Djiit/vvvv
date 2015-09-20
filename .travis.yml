@@ -19,3 +19,4 @@ deploy:
   password: $PYPI_PASS
   on:
     tags: true
+    python: "3.5"
