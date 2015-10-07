@@ -29,7 +29,7 @@ setup(
     name='vvvv',
     version=grep('__version__'),
     description='vvvv Python OSC client',
-    long_description=read(fpath('README.md')),
+    long_description=read(fpath('README.rst')),
     url='https://github.com/Djiit/vvvv',
     author='Julien Tanay',
     author_email="julien.tanay@gmail.com",
