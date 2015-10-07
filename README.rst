@@ -1,7 +1,7 @@
 vvvv
 ====
 
-|Build Status| |PyPI|
+|Build Status2| |Build Status| |PyPI| 
 
 About
 -----
@@ -38,5 +38,7 @@ See `LICENSE <./LICENSE>`__
 
 .. |Build Status| image:: https://travis-ci.org/Djiit/vvvv.svg
    :target: https://travis-ci.org/Djiit/vvvv
+.. |Build Status2| image:: https://drone.io/github.com/Djiit/vvvv/status.png
+   :target: https://drone.io/github.com/Djiit/vvvv/latest
 .. |PyPI| image:: https://img.shields.io/pypi/v/vvvv.svg
    :target: https://pypi.python.org/pypi/vvvv
