@@ -23,13 +23,13 @@ init:
 build: off
 
 install:
-  - cmd: %PYTHON%/pip install py.test
+  - cmd: "%PYTHON%/pip install py.test"
 
 test_script:
-  - py.test"
+  - "py.test"
 
 after_test:
-  - %PYTHON%/python setup.py bdist_wheel"
+  - "%PYTHON%/python setup.py bdist_wheel"
 
 artifacts:
   - path: dist\*
