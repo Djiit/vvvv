@@ -24,3 +24,6 @@ deploy:
     tags: true
     branch: master
     python: "3.5"
+
+after_success:
+  - coveralls
