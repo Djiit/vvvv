@@ -1,7 +1,7 @@
 vvvv
 ====
 
-|Build Status| |Build Status2| |Build Status3| |Coverage Status| |PyPI| 
+|Build Status| |Build Status2| |Build Status3| |Build Status4| |Coverage Status| |PyPI| 
 
 About
 -----
@@ -42,6 +42,8 @@ See `LICENSE <./LICENSE>`__
    :target: https://drone.io/github.com/Djiit/vvvv/latest
 .. |Build Status3| image:: https://circleci.com/gh/Djiit/vvvv/tree/master.svg?style=svg
    :target: https://circleci.com/gh/Djiit/vvvv/tree/master
+.. |Build Status4| image:: https://codeship.com/projects/f2285bc0-69c2-0133-a6e2-6e257542035e/status?branch=master
+   :target: https://codeship.com/projects/114635
 .. |PyPI| image:: https://img.shields.io/pypi/v/vvvv.svg
    :target: https://pypi.python.org/pypi/vvvv
 .. |Coverage Status| image:: https://coveralls.io/repos/Djiit/vvvv/badge.svg?branch=master&service=github
