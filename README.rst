@@ -1,7 +1,7 @@
 vvvv
 ====
 
-|Build Status| |Build Status2| |Build Status3| |Build Status4| |Coveralls Status| |Codecov Status| |PyPI| 
+|Build Status| |Build Status2| |Build Status3| |Build Status4| |Coveralls Status| |Codecov Status| |PyPI| |RequiresIO|
 
 About
 -----
@@ -50,3 +50,5 @@ See `LICENSE <./LICENSE>`__
    :target: https://coveralls.io/github/Djiit/vvvv?branch=master
 .. |Codecov Status| image:: https://codecov.io/github/Djiit/vvvv/coverage.svg?branch=master
    :target: https://codecov.io/github/Djiit/vvvv?branch=master
+.. |RequiresIO| image:: https://requires.io/github/Djiit/vvvv/requirements.svg?branch=master
+   :target: https://requires.io/github/Djiit/vvvv/requirements/?branch=master
