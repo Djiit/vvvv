@@ -1,0 +1,5 @@
+build:
+  image: python:latest
+  commands:
+    - pip install tox
+    - tox
